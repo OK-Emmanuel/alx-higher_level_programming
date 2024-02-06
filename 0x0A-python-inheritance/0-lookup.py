@@ -1,9 +1,7 @@
-'''Write a function that returns the list of available attributes and methods of an object:
-Prototype: def lookup(obj):
-Returns a list object
-You are not allowed to import any module
-'''
-def lookup(obj):
-    return dir(obj)
+#!/usr/bin/python3
+"""Defines an object attribute lookup function."""
 
-'''The dir() function outputs all attributes including super and magic attributes'''
+
+def lookup(obj):
+    """Return a list of an object's available attributes."""
+    return (dir(obj))
