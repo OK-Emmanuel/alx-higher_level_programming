@@ -27,4 +27,4 @@ In this project, I learnt:
 - What is the purpose of inheritance
 - What are, when and how to use isinstance, issubclass, type and super built-in functions
 
-##Olawuni Emmanuel Kayode
+## Olawuni Emmanuel Kayode
