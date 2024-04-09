@@ -1,3 +1,4 @@
+#!/usr/bin/node
 let a, b, c
 a = "C is fun"
 b = "Python is cool"
